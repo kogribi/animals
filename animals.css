@@ -1,6 +1,7 @@
 body{
     background-image: url("https://t4.ftcdn.net/jpg/07/30/41/97/360_F_730419788_1LQwRRWZTvudRZSOx8wEriYQWs5dOf3q.jpg");
     background-size: 100%;
+    overflow-y: hidden;
 }
 header {
     display: flex;
